@@ -1,8 +1,19 @@
+body {
+    background-image: url(./image/download.png);
+
+    background-image: url("./image/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
 h1 {
-    color: darkblue;
-    font-size: 60px;
-    background-color: azure;
+    color: gainsboro;
     text-align: center;
+
     width: 50%;
     margin-left: 25%;
+    height: 700px;
 }
